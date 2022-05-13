@@ -1,0 +1,23 @@
+{
+    "databases": {
+        "insearch-preprod-0": {
+            "index_docs_test": {
+                "indexes": [
+                    {
+                        "name": "_id_",
+                        "keys": [
+                            [
+                                "_id",
+                                1
+                            ]
+                        ]
+                    }
+                ],
+                "options": {
+                    "capped": false
+                }
+            }
+        }
+    },
+    "exported": "2022-04-14T14:26:52.618819"
+}

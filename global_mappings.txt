@@ -1,0 +1,7 @@
+global_color_string_mv: colour, color
+global_material_string_mv: material
+global_memory_string_mv: storage, memeory
+global_gender_string_mv: gender
+global_occasion_string_mv: occasion
+global_size_string_mv: size
+global_capacity_string_mv: capacity
